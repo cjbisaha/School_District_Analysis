@@ -3,7 +3,6 @@
 Overview of the school district analysis: Explain the purpose of this analysis.
   To analyze student data of suspected academic dishonesty for the 9th graders reading and math grades at Thomas High School. 
 
-went from a 
 
 How is the district summary affected?
   -Avg Math went from 79 to 78.9 ehrn removing THS 9th grade scores
